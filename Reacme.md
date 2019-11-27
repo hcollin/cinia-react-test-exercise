@@ -1,0 +1,3 @@
+# Cinia React Testing exercise project
+
+Nothing special here...
